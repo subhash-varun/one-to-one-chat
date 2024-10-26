@@ -63,4 +63,10 @@ To run the application and MongoDB with Docker:
    ```bash
    docker-compose down
 
+## Preview of the Application
 
+![Application Interface](/app-preview.png)
+
+![Login Page](/login-preview.png)
+
+![Project Structure](/project-structure-preview.png)
