@@ -42,7 +42,25 @@ Follow these instructions to set up and run the application locally or in a Dock
 
 ### Installation
 
-1. **Clone the Repository**  
+- **Clone the Repository**  
    ```bash
    git clone https://github.com/subhash-varun/one-to-one-chat.git
    cd one-to-one-chat
+
+### Docker Setup
+
+To run the application and MongoDB with Docker:
+
+1. **Build the Docker Images and Start Containers**  
+   Make sure Docker is running, then run the following command:
+
+   ```bash
+   docker-compose up --build
+
+2. **Stopping the Containers**  
+   To stop the container use:
+
+   ```bash
+   docker-compose down
+
+
