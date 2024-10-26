@@ -9,11 +9,9 @@ A private messaging application built with **Java**, **Spring Boot**, **WebSocke
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Docker Setup](#docker-setup)
+  - [Docker Setup](#docker-setup)
 - [Screenshots](#screenshots)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-
+  
 ## Features
 
 - **User Authentication**: Users can log in and start a one-to-one chat session.
@@ -63,7 +61,7 @@ To run the application and MongoDB with Docker:
    ```bash
    docker-compose down
 
-## Preview of the Application
+## Screenshots
 
 ![Application Interface](/app-preview.png)
 
