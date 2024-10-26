@@ -12,7 +12,7 @@ A private messaging application built with **Java**, **Spring Boot**, **WebSocke
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- 
+  
 ## Features
 
 - **User Authentication**: Users can log in and start a one-to-one chat session.
