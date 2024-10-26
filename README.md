@@ -63,8 +63,8 @@ To run the application and MongoDB with Docker:
 
 ## Screenshots
 
-![Application Interface](/app-preview.png)
+![Application Interface](/application interface.png)
 
-![Login Page](/login-preview.png)
+![Login Page](/login.png)
 
-![Project Structure](/project-structure-preview.png)
+![Project Structure](/project structure.png)
